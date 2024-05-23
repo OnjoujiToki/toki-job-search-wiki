@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Application Links'
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Application Links
