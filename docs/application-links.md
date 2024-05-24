@@ -17,4 +17,4 @@ sidebar_position: 2
 ## Resources
 
 - [Summer 2025 Tech Internships by Ouckah & CSCareers](https://github.com/Ouckah/Summer2025-Internships)
-- [Simplify Jobs Filtered](https://simplify.jobs/jobs?experience=Internship&category=Software%20Engineering&mostRecent=true)
+- [Simplify Jobs Filtered](https://simplify.jobs/jobs?state=United%20States&points=71.5388001%3B-66.885417%3B18.7763%3B-180&country=United%20States&experience=Internship&category=Software%20Engineering&mostRecent=true)
