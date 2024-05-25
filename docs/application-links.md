@@ -1,9 +1,11 @@
 ---
-sidebar_label: 'Application Links'
+sidebar_label: '2025 SDE Summer Internship'
 sidebar_position: 2
 ---
 
 # Application Links
+
+本页面筛选了一些提供**Sponsor**的实习申请链接。
 
 ## Recent Positions
 
