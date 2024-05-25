@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'LeetCode 101'
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # LeetCode 101
