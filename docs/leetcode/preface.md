@@ -1,11 +1,9 @@
 ---
-sidebar_label: 'LeetCode 101'
+sidebar_label: 'Before You Start'
 sidebar_position: 1
 ---
 
-# LeetCode 101
-
-## Preface Questions
+# Before You Start
 
 ### 选择使用国区还是美区
 
@@ -33,18 +31,3 @@ sidebar_position: 1
 ### 精刷还是泛刷？
 
 算法题是知识点、trick、思维的结合。有的题目是典型的 trick 题，会者不难。有的题目思维较强，没有套路。纯知识点题是模板题。反复刷 300 题可能覆盖面试的所有知识点，但一些 trick 可能涵盖不到，新题目可能做不出来。因此，泛刷很必要，多打周赛，补题，学超纲知识点，对 trick 和思维的积累非常有帮助。如果知识点掌握不够牢固，可以回去做模板题、典型题。
-
-## Beginner List
-
-1. [灵茶山艾府基础算法精讲](https://www.youtube.com/watch?v=Woardovr0k0&list=PL5CbbRlzbll9TSV_fbTVSWnZL-RA0IpKt)
-   - **Difficulty:** ⭐️⭐️⭐️
-   - **Recommendation:** ⭐️⭐️⭐️⭐️⭐️
-   - **Note:** 一些同学反应不适合入门，适合有一丢丢算法基础的同学或者复习用。视频使用 Python 讲解，不过你可以在国区的题解里总能找到他用别的语言作的解答。
-2. [代码随想录](https://programmercarl.com/)
-   - **Difficulty:** ⭐️
-   - **Recommendation:** ⭐️⭐️⭐️⭐️
-   - **Note:** 更加容易入手，总体来说是一个不错的材料。但是过于浅，如果灵茶山艾府的材料你觉得过难，可以先尝试这个再用灵茶山艾府的材料进行复习
-
-在你完成了这两个材料大部分内容后，题量会来到 100-150 之间，会脱离入门阶段。对面试大部分的算法都有一定的了解。
-
-## Problem List By Topics
