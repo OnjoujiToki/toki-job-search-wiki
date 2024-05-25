@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'LeetCode Resources'
+sidebar_label: 'LeetCode 101'
 sidebar_position: 3
 ---
 
-# LeetCode Resources
+# LeetCode 101
 
 ## Preface Questions
 
