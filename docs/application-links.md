@@ -9,14 +9,15 @@ sidebar_position: 2
 
 ## Recent Positions
 
-| Company Name                 | Position Title                  | Application Link                                                                                                          | Update Date | Notes |
-| ---------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------- | ----- |
-| D. E. Shaw                   | Software Engineering Internship | [Link](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470795002?utm_source=Simplify&gh_src=Simplify)       | 2024-5-31   |       |
-| Ventas                       | Software Engineering Internship | [Link](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137)                                | 2024-5-31   |       |
-| Capstone Investment Advisors | Software Engineering Internship | [Link](https://ventas.wd1.myworkdayjobs.com/en-US/ventas_careers/job/Intern--Software-Engineering--Summer-2025-_R0001113) | 2024-5-31   |       |
-| SIG                          | Software Engineering Internship | [Link](https://careers.sig.com/job/8218/Software-Engineering-Intern-Summer-2025?utm_campaign=google_jobs_apply)           | 2024-5-23   |       |
-| Chicago Trading Company      | Software Engineering Internship | [Link](https://job-boards.greenhouse.io/chicagotradingreferral/jobs/4392240005)                                           | 2024-5-23   |       |
-| Caterpillar                  | Corporate Intern - Engineering  | [Link](https://careers.caterpillar.com/en/jobs/job/r0000255588-2025-summer-corporate-intern-engineering)                  | 2024-5-23   |       |
+| Company Name                 | Position Title                                      | Application Link                                                                                                                                                                     | Update Date | Notes |
+| ---------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | ----- |
+| Ansys                        | Spring 2025 Intern - Software Development - Meshing | [Link](https://careers.ansys.com/job/Canonsburg-Spring-2025-Intern-Software-Development-Meshing-%28BachelorsMasters%29-PA-15317/1165648700/?utm_source=LINKEDIN&utm_medium=referrer) | 2024-5-31   |       |
+| D. E. Shaw                   | Software Engineering Internship                     | [Link](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470795002?utm_source=Simplify&gh_src=Simplify)                                                                  | 2024-5-31   |       |
+| Ventas                       | Software Developer Intern (New York) – Summer 2025  | [Link](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137)                                                                                           | 2024-5-31   |       |
+| Capstone Investment Advisors | Intern, Software Engineering (Summer 2025)          | [Link](https://ventas.wd1.myworkdayjobs.com/en-US/ventas_careers/job/Intern--Software-Engineering--Summer-2025-_R0001113)                                                            | 2024-5-31   |       |
+| SIG                          | Software Engineering Internship                     | [Link](https://careers.sig.com/job/8218/Software-Engineering-Intern-Summer-2025?utm_campaign=google_jobs_apply)                                                                      | 2024-5-23   |       |
+| Chicago Trading Company      | Software Engineering Internship                     | [Link](https://job-boards.greenhouse.io/chicagotradingreferral/jobs/4392240005)                                                                                                      | 2024-5-23   |       |
+| Caterpillar                  | Corporate Intern - Engineering                      | [Link](https://careers.caterpillar.com/en/jobs/job/r0000255588-2025-summer-corporate-intern-engineering)                                                                             | 2024-5-23   |       |
 
 ## Resources
 
